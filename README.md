@@ -11,7 +11,7 @@
 Hello Beautiful World
 
 # **Description**
-This is my first repository on GitHub, and this is meant for my learning. In here, I have practiced using different features. 
+This is my first repository on GitHub, and this is meant for my learning. Here, I have practiced using different features. 
 
 # **Instructions**
 >1. Open the file
@@ -19,4 +19,4 @@ This is my first repository on GitHub, and this is meant for my learning. In her
 >3. Run!
 
 # **Additional Notes**
-As stated before, this repository was created with the intention of getting familiar with the GitHub platform. There is no content here that is of significance.  
+There are no additional notes.
